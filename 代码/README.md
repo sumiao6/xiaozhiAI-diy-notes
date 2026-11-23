@@ -7,7 +7,7 @@
 | `config.h` | 全部引脚与参数宏 | 01 章 1.7 |
 | `compact_wifi_board.cc` | 板型入口，外设实例化 | 02 章 2.4 |
 | `led_strip_controller.h` | 彩灯板（WS2812 + RMT） | 03 章 |
-| `dc_motor_controller.h` | 直流电机 + 差速小车 | 04 章 |
+| `dc_motor_controller.h` | 直流电机 + 差速控制 | 04 章 |
 | `pca9685_servo.h` | PCA9685 十六路舵机 | 05 章 |
 
 ## 怎么用
